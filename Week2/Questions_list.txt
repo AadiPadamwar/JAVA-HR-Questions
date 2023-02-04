@@ -1,0 +1,14 @@
+DAY6 Q1 = Temp convertor.
+     Q2 = Special two digit number.
+     
+DAY7 Q1 = Binary paper code to character code.
+     Q2 = Simple addition.
+   
+DAY8 Q1 = Area of triangle using heron’s formula.
+     Q2 = Average of float numbers.
+ 
+DAY9 Q1 = Fahrenheit to Celsius.
+     Q2 = Celsius to Fahrenheit.
+ 
+DAY10 Q1 = Total price with gst.
+      Q2 = Eligibilty for voting

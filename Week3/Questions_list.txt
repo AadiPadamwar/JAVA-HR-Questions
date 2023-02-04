@@ -1,0 +1,14 @@
+Day11 Q1 = Pattern
+      Q2 = EMI
+
+DAY12 Q1 = Display letter between two letters.
+      Q2 = palindrome number or not.
+      
+DAY13 Q1 = Menu driven
+      Q2 = Finding a missing no in a given array of n natural no.
+      
+DAY14 Q1 = Pattern
+      Q2 = Menu drive on bank account
+
+DAY15 Q1 = Largest String
+      Q2 = Digit counter
